@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @knight0020
 - 👀 I’m interested in technology 
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 knight0020/knight0020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
