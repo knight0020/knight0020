@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @knight0020
 - 👀 I’m interested in technology 
 - 🌱 I’m currently learning python
+- 💢 I'm beginner in this platform !
 
 
 <!---
