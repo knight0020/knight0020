@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @knight0020
-- 👀 I’m interested in technology 
-- 🌱 I’m currently learning python
-- 💢 I'm beginner to this platform !
+### Hi there 👋, my name is Mahfuj
+#### I am a little programmer
+I'm a college student. I'm still studying and trying to learn programing . I'm beginner to this platform ! 
+
+Skills:  HTML / CSS/JS/Python 
+
+- 🌱 I’m currently learning Python and JS 
 
 
-<!---
-knight0020/knight0020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/knight0020)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mahfuj_hossain_1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mah.fuj_/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=knight0020&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=knight0020)  
+
