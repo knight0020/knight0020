@@ -2,7 +2,7 @@
 #### I am a little programmer
 I'm a college student. I'm still studying and trying to learn programing . I'm beginner to this platform ! 
 
-Skills:  HTML / CSS/JS/Python 
+Skills:  HTML , CSS,JS,Python 
 
 - 🌱 I’m currently learning Python and JS 
 
