@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Mahfuj
+### Hey there 👋, myself Mahfuj
 #### I am a little programmer
 I'm a college student. I'm still studying and trying to learn programing . I'm beginner to this platform ! 
 
-Skills:  HTML , CSS,JS,Python 
+Learning:  HTML , CSS, JS, Python, C
 
 - 🌱 I’m currently learning Python and JS 
 
