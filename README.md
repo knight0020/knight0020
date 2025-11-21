@@ -11,5 +11,4 @@ Learning:  HTML , CSS, JS, Python, C
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=knight0020&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=knight0020)  
 
